@@ -14,7 +14,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 BOT_TOKEN = "8844166711:AAFYRraiOHzbGJrrCWhUggmV8egW4p1n980"
 ADMIN_ID = 8583812180
 BOT_USERNAME = "@premium12_bot"
-RENDER_URL = "https://my-2-d05t.onrender.com"
+RENDER_URL = "https://telegram-bot3-main.onrender.com"
 WEB_APP_URL = "https://premiumxyz.dpdns.org/"
 DB_FILE = "videos.json"
 ADMIN_LINK = "https://t.me/premium12_bot/admin"  # 👈 আপনার কাঙ্ক্ষিত লিংক
